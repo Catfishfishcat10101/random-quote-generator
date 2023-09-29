@@ -1,12 +1,12 @@
-# Random-quote-generator
+# Random-Quote-Generator
 
 ## Description
 
-This is a website that generates random quotes when you click the button
+This is a website that generates random quotes
 
 ## live link
 
-https://thuotracy.github.io/random-quote-generator/
+https://
 
 ##  Languages 
 * CSS
@@ -15,4 +15,4 @@ https://thuotracy.github.io/random-quote-generator/
 
 ## Support and contact details
 
-Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
+Incase you run into any issues kindly contact me on this Email catfishfishcat10101@gmail.com
